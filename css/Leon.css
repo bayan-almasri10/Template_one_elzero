@@ -200,6 +200,9 @@ max-width: 100%;
 }
 /* end Features */
 /*start services*/
+#h1{
+    margin-top: 70px;
+}
 .services .services-content{
     display: grid;
     grid-template-columns: repeat(auto-fill ,minmax(300px,1fr));
@@ -393,7 +396,7 @@ max-width: 100%;
 display: block;
 color: var(--mainColor);
 text-decoration: none;
-font-size: 30px;
+font-size: 25px;
 font-weight: 800;
 }
 .contact .info .social{
